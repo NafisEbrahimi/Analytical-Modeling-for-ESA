@@ -6,7 +6,7 @@ After that, run "plot_xx_yy.m" to observe field and force calculations discussed
 
 The MATLAB code consists of two m-files: one for the main program and another dedicated to auxiliary calculations. To obtain the optimization results, please run the main file. If you have any questions, feel free to reach out to us for further clarification.
 
-Citation
+##Citation
 Please cite this paper in your publications if it helps your research:
 
 LaTeX:
