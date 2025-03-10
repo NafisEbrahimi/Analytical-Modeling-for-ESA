@@ -1,5 +1,6 @@
-Matlab Code for Analytical Modeling and Optimization of Electronic Soft Actuator(ESA)
+Analytical Modeling and Optimization of Electronic Soft Actuator
 ===
+## Introduction
 
 ## Usage
 In the "Magnetic_Field_Force_(Magnetic_Vector_Potential)" folder, Matlab code that calcualtes the force and magnetic field using Magnetic Vector Potential(MVP) methods are provided.
